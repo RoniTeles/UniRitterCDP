@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App1_2023_1</string>
+    <string name="btn_back">Voltar</string>
+    <string name="btn_hello">Hello</string>
+    <string name="btn_avn">Avançar</string>
+    <string name="btn_finish">Sair</string>
+</resources>
