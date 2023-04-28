@@ -20,7 +20,8 @@ public class MainActivity extends AppCompatActivity {
             startActivity(intent);
         });
 
+        findViewById(R.id.button1_3).setOnClickListener(view -> {
+            finishAffinity();
+        });
         }
-
-    //Aula 04/11 - 1:50
 }
